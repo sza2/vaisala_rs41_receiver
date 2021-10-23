@@ -16,7 +16,7 @@ The device acts as a BLE server and updates a characteristic that contains the r
 
 # Note
 
-By default, the frequency is set to receive the signal of the sondes started from Budapest (currently 403.2MHz). The frequency can be increased by the right button (PB0) by 100kHz on every button push, the minimum frequency is 400MHz, the maximum is 405MHz
+By default, the frequency is set to receive the signal of the sondes started from Budapest (currently 403.2MHz). The frequency can be increased by the right button (PB0) by 100kHz on every button push, the minimum frequency is 400MHz, the maximum is 405MHz.
 
 # Todo
 
